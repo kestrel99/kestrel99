@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a pharmacometrics consultant, a founder and partner at [Occams](https://www.occams.com), and a fellow and past president of the [International Society of Pharmacometrics (ISoP)](https://www.isop.org).
+
+Also an #rstats fan. I maintain [pmxTools](https://www.github.com/kestrel99/pmxTools) and I'm part of the [nlmixr2](https://www.github.com/nlmixr2/nlmixr2) dev team.
+
+I'm on <link rel="me" href="https://fosstodon.org/@justinwilkins">Mastodon</a>!
+
 <!--
 **kestrel99/kestrel99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
