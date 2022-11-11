@@ -4,7 +4,7 @@ I'm a pharmacometrics consultant, a founder and partner at [Occams](https://www.
 
 Also an #rstats fan. I maintain [pmxTools](https://www.github.com/kestrel99/pmxTools) and I'm part of the [nlmixr2](https://www.github.com/nlmixr2/nlmixr2) dev team.
 
-I'm on <link rel="me" href="https://fosstodon.org/@justinwilkins">Mastodon</a>!
+I'm on [Mastodon](https://fosstodon.org/@justinwilkins)!
 
 <!--
 **kestrel99/kestrel99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
